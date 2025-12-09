@@ -28,14 +28,23 @@ Cada servicio calcula su costo de forma diferente, esto permite demostrar polimo
 ---------------------
 ## Estructura del repositorio
 ProyectoPOO_Parcial1
+
 │── servicio.py
+
 │── prestamo.py
+
 │── consulta.py
+
 │── libro.py
+
 │── cliente.py
+
 │── gestor_servicios.py
+
 │── main.py
+
 └── README.md
+
 --------------------
 #  Explicación de las clases
 <img width="816" height="544" alt="image" src="https://github.com/user-attachments/assets/a9a26f79-8457-4df2-b468-d5d1c8b479f9" />
